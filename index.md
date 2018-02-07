@@ -1,34 +1,37 @@
-# 自己紹介
+## Welcome to GitHub Pages
 
-## ニフティ/FJCTとして
-### mBaaS（テク推）: 2018年1月～
-* mBaaSの海外展開推進
-* その他海外展開業務の巻き取り
+You can use the [editor on GitHub](https://github.com/syyama/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### mBaaS（デジIoT部）: 2017年1月～2018年1月（1年）
-* 2017年1月入社（FJCT分社化発表の1週間前）
-* mBaaSのゲーム向け施策を担当、ネストピといった大型案件獲得に貢献
-* @nifty個人会員の移行推進のPMを担当し完遂
-* 将来の海外展開を見据えてSNS認証/クレジットカード決済の導入を行った
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## 前職（GMOクラウド）について
-### Photon Engineエバンジェリスト: 2014年4月～2016年9月（2年9ヶ月）
-* ドイツのクラウドサービス（PaaS）の技術・企画の両面に2年半参画（初期メンバー4人の内の1人）
-* 売上ゼロから年間1.5億円程度に育て上げる
-* 英語から日本語に翻訳し日本で展開、逆に日本の問合せを翻訳してエスカレーション
-* 日本以外にも韓国や台湾の代理店に対する施策を検討（ドキュメント・サポート体制等）
+### Markdown
 
-### ブロックチェーンの商用化に向けた実証実験: 2016年10月～2016年12月（3ヶ月）
-* CTO室で3ヶ月間ブロックチェーンの開発業務携わる
-* Ethereumを使ってDAppを作成など
-    * https://ir.gmocloud.com/news/press/globalsign/170620_2732.html
-* IoTをはじめとした新たな分野に挑戦したくなり、転職を決意
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## その他
-* 兵庫県出身、東京に来てまだ4年（本当はバリバリの関西弁）
-* 学生時代は画像処理の研究・類似画像検索アルゴリズムの開発など（学部卒・院行きたかった）
-* Java/C#なら業務レベルで書ける/RDBの構築・設計経験もあり対応可
-* 技術的な部分から企画まで幅広く携わる経験済がなので対応出来る
-* 趣味はアジアを中心とした海外旅行（婚約者がシンガポール帰国子女）
-* 休日はおうちハックといった電子工作、Webサービス開発（1つは月間20万PV）
-* 特技は料理・外資ホテル・飛行機など
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syyama/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
