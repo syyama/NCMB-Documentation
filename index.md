@@ -1,6 +1,6 @@
 # NCMB Documentation
 
-Welcome to the NIFCloud mobile backend(NCMB) Documentation.
+Welcome to the NIFCloud mobile backend(NCMB) Documentation.  
 This page will help you start your first app.
 
 If you can read Japanese, please read [Japanese page](http://mb.cloud.nifty.com/doc/current/).
